@@ -8,9 +8,9 @@
 - **Nombre:** Leonel Alfonso Zapata Mendez
   - **Cédula:** 80554553
   - **Programa:** Ingeniería de Sistemas
-  - **Materia:** Inteligencia Artificial
+  - **Materia:** Inteligencia Artificial para las ciencias e ingenieia
 
 - **Nombre:** Alcides Antonion Zapata Mendez
   - **Cédula:** 1038100562
   - **Programa:** Ingeniería de Sistemas
-  - **Materia:** Inteligencia Artificial
+  - **Materia:** Inteligencia Artificial para las ciencias e ingenieia
